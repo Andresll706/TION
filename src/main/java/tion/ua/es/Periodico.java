@@ -1,9 +1,10 @@
+package tion.ua.es;
 
 import org.json.JSONObject;
 
 import java.util.Date;
 
-public class Periodico extends Publicacion{
+public class Periodico extends Publicacion {
 	
 	private Date fecha;
 	

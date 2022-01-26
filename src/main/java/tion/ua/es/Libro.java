@@ -1,6 +1,8 @@
+package tion.ua.es;
+
 import org.json.JSONObject;
 
-public class Libro extends Publicacion{
+public class Libro extends Publicacion {
 	
 	private String isbn;
 	private String lugarPublicacion;
